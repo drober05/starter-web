@@ -11,3 +11,7 @@ I changed this files
 
 
 additional changes to play
+
+### Copyright
+
+Git.training
