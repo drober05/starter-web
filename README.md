@@ -18,4 +18,4 @@ Please FORK this repository and then issue PULL request.
 
 ### Copyright
 
-Git.training
+Git.training all rights reserved
