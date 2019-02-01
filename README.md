@@ -12,6 +12,8 @@ I changed this files
 
 additional changes to play
 
+Please FORK this repository and then issue PULL request.
+
 ### Copyright
 
 Git.training
